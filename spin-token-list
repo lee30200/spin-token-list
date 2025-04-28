@@ -1,0 +1,23 @@
+{
+  "name": "Spin Token List",
+  "logoURI": "https://naver.me/FbOAdWTC",
+  "keywords": ["spin", "roller", "festival"],
+  "tags": {
+    "utility-token": {
+      "name": "Utility Token",
+      "description": "Used for World Roller Festival and roller skating ecosystem"
+    }
+  },
+  "timestamp": "2025-04-28T06:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "FAgbyn8cuu8FL55WYSi8kw8TTveZLujSCsvg45ivpump",
+      "symbol": "SPIN",
+      "name": "Spin Coin",
+      "decimals": 9,
+      "logoURI": "https://naver.me/FbOAdWTC",
+      "tags": ["utility-token"]
+    }
+  ]
+}
